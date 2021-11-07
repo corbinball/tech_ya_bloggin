@@ -5,11 +5,11 @@
     "contents": "blog post yadda yadda sports, go cowboys"
   },
   {
-    "name": "Mashed Taters",
-    "description": "mash em boil em fry em and other things for second breakfast"
+    "post_title": "Mashed Taters",
+    "contents": "mash em boil em fry em and other things for second breakfast"
   },
   {
-    "name": "im confused",
-    "description": "am i writing code or banging my head on the keyboard"
+    "post_title": "im confused",
+    "contents": "am i writing code or banging my head on the keyboard"
   }
 ]

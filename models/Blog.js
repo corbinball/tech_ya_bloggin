@@ -22,13 +22,13 @@ Blog.init(
     contents: {
       type: DataTypes.STRING,
     },
-    post_username: {
-      type: DataTypes.STRING,
-      references: {
-        model: 'user',
-        key: 'name',
-      }
-    },
+    // post_username: {
+    //   type: DataTypes.STRING,
+    //   references: {
+    //     model: 'user',
+    //     key: 'name',
+    //   }
+    // },
     date_created: {
       type: DataTypes.DATE,
       allowNull: false,
